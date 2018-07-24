@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>main_classClass</class>
+ <widget class="QWidget" name="main_classClass" >
+  <property name="objectName" >
+   <string notr="true">main_classClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>main_class</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="main_class.qrc"/>
+ </resources>
+ <connections/>
+</UI>

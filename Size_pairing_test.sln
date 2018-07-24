@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Size_pairing_test", "Size_pairing_test.vcproj", "{1DA6525E-E9A1-4753-B047-B3E96AA703F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA6525E-E9A1-4753-B047-B3E96AA703F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1DA6525E-E9A1-4753-B047-B3E96AA703F7}.Debug|Win32.Build.0 = Debug|Win32
+		{1DA6525E-E9A1-4753-B047-B3E96AA703F7}.Release|Win32.ActiveCfg = Release|Win32
+		{1DA6525E-E9A1-4753-B047-B3E96AA703F7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
